@@ -1,7 +1,7 @@
 # Full Stack Open - Ejercicios 🚀
 Este repositorio contiene las soluciones a los ejercicios del curso Full Stack Open de la Universidad de Helsinki.
 
-#📌 Contenido
+# 📌 Contenido
 
 Los ejercicios están organizados por partes según la estructura del curso:
 

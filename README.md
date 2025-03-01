@@ -16,7 +16,7 @@ Parte 7: React Router y estilos avanzados
 Parte 8: GraphQL
 Parte 9: TypeScript
 Parte 10: React Native
-Parte 11: CI/CD (Integración y despliegue continuo)
+Parte 11: CI/CD (Integración y despliegue continuo) 
 Parte 12: Contenedores y Kubernetes
 
 # 🛠️ Tecnologías
